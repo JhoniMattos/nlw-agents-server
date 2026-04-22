@@ -22,3 +22,4 @@ app.get("/health", () => "OK");
 app.register(getRoomsRoute);
 
 app.listen({ port: env.PORT });
+console.log("HTTP server running!!");
