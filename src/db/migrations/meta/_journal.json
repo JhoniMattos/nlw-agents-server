@@ -15,6 +15,13 @@
       "when": 1776764161888,
       "tag": "0001_fluffy_stepford_cuckoos",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1776943334506,
+      "tag": "0002_strange_marvel_zombies",
+      "breakpoints": true
     }
   ]
 }
